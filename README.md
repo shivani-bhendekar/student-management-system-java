@@ -16,15 +16,6 @@ A simple **Student Management System** built using **Java** and **MySQL** that a
 - JDBC
 - IDE: Eclipse / IntelliJ IDEA / VS Code
 
-## Setup Instructions
-1. Clone the repository
-   ```bash
-   git clone (https://github.com/shivani-bhendekar/student-management-system-java.git)
-   ```
-2. Create MySQL database and table using `database.sql`.
-3. Update DB credentials in `DatabaseConnection.java`.
-4. Open in IDE → Run `Main.java`.
-
 ## Future Enhancements
 - GUI using JavaFX/Swing
 - Authentication (Admin/Student)
@@ -32,4 +23,4 @@ A simple **Student Management System** built using **Java** and **MySQL** that a
 - Web version using Spring Boot
 
 ## Author
-shivani-bhendekar (https://github.com/your-username)**
+shivani-bhendekar (https://github.com/shivani-bhendekar)
