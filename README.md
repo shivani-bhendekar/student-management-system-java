@@ -19,7 +19,7 @@ A simple **Student Management System** built using **Java** and **MySQL** that a
 ## Setup Instructions
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/student-management-system-java.git
+   git clone (https://github.com/shivani-bhendekar/student-management-system-java.git)
    ```
 2. Create MySQL database and table using `database.sql`.
 3. Update DB credentials in `DatabaseConnection.java`.
@@ -32,4 +32,4 @@ A simple **Student Management System** built using **Java** and **MySQL** that a
 - Web version using Spring Boot
 
 ## Author
-**[Your Name](https://github.com/your-username)**
+shivani-bhendekar (https://github.com/your-username)**
